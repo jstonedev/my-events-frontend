@@ -1,0 +1,31 @@
+.showcase {
+  width: 100%;
+  height: 300px;
+  background: url('../public/images-1/concert-3387324_1920.jpg') no-repeat center center;
+  color: #fff;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.showcase::after {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, .7);
+  width: 100%;
+  height: 100%;
+}
+
+.showcase * {
+  z-index: 1;
+}
+
+.showcase h1 {
+  font-size: 40px;
+  margin-bottom: 0;
+}
