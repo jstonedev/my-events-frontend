@@ -1,0 +1,124 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Throwback Thursdays with DJ Manny Duke",
+      "slug": "throwback-thursdays-with-dj-manny-duke",
+      "venue": "Horizon Club",
+      "address": "919 3rd Ave New York, New York(NY), 10022",
+      "performers": "DJ Manny Duke",
+      "date": "June 09, 2021",
+      "time": "10:00 PM EST",
+      "description": "Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's",
+      "image": "/images/sample/event1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Led Zeppelin Tribute",
+      "slug": "misty-mountain-led-zeppelin",
+      "venue": "My Father's Place",
+      "address": "3 Pratt Blvd Glen Cove, NY",
+      "performers": "Misty Mountain Band",
+      "date": "May 22, 2023",
+      "time": "8:30 PM EST",
+      "description": "Keeping the spirit and sound of the legendary band, Led Zeppelin, Misty Mountain plays all the classic songs we love",
+      "image": "/images/sample/event2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Kool And The Gang",
+      "slug": "kool-and-the-gang",
+      "venue": "NYCB Theatre At Westbury",
+      "address": "960 Brush Hollow Rd Westbury, NY 11590",
+      "performers": "Kool and the Gang",
+      "date": "July 11, 2023",
+      "time": "9:00 PM EST",
+      "description": "The kings of feel-good vibes and funky grooves, Kool and the Gang scored some of the most iconic hits of the disco era.",
+      "image": "/images/sample/event3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Jam Concert Live",
+      "slug": "jam-concert-live",
+      "venue": "Club Ozone",
+      "address": "70 W 115th St New York, New York(NY), 10026",
+      "performers": "DJ RNB",
+      "date": "June 20, 2021",
+      "time": "10:00 PM EST",
+      "description": "The most diverse dj on the east coast, DJ RNB team up once again to bring you the next installment in the high energy, Jam Concert Live series!",
+      "image": "/images/sample/event4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "UnMute Rock Festival",
+      "slug": "unmute-rock-festival",
+      "venue": "Studio 54",
+      "address": "55 La Salle St #12K New York, New York(NY), 10027",
+      "performers": "Big Wednesday, Black Pyre, Calling Apollo",
+      "date": "June 30, 2021",
+      "time": "8:00 PM EST",
+      "description": "With bands from around the UK ready to send the roof into orbit, get ready for the loudest Welsh festival: the inaugural UnMute 2021.",
+      "image": "/images/sample/event5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Soul Kitchen Party",
+      "slug": "soul-kitchen-party",
+      "venue": "Onyx Club",
+      "address": "60 Gramercy Park N #2 New York, New York(NY), 10010",
+      "performers": "A-Trak, Nightmares on Wax, Rakim, Jay Electronica",
+      "date": "July 2, 2021",
+      "time": "8:00 PM EST",
+      "description": "Dope party which features Hip Hop legends, emerging artists and world-class turntablists",
+      "image": "/images/sample/event6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Boom Dance Festival Experience",
+      "slug": "boom-dance-festival-experience",
+      "venue": "Blackjacks",
+      "address": "966 Lexington Ave New York, New York(NY), 10021",
+      "performers": "DJ LUCK & MC NEAT, NICKY BLACKMARKET, DJ NICKY BLACKMARKET, RATPACK",
+      "date": "June 2, 2021",
+      "time": "8:00 PM EST",
+      "description": "It's looking more and more like we will be seeing events return in the summer! To celebrate this we are arranging a festival experience to say good bye to lock down! We will also be celebrating the fact Zoom Dance is one year old!",
+      "image": "/images/sample/event7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Encore Night Boat Party",
+      "slug": "encore-night-boat-party",
+      "venue": "Encore",
+      "address": "675 Water St New York, New York(NY), 10002",
+      "performers": "Bad Boy Bill",
+      "date": "June 11, 2021",
+      "time": "7:00 PM EST",
+      "description": "Who is ready to party? I mean in the middle of the water, a boat with good music and drinks. If thats you then you have made it to the right place.",
+      "image": "/images/sample/event8.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Emilie Surtees - Soulful Sounds",
+      "slug": "emilie-surtees",
+      "venue": "Groove",
+      "address": "125 MacDougal St New York, NY 10012",
+      "performers": "Emilie Surtees and her band",
+      "date": "June 1, 2023",
+      "time": "8:00 PM EST",
+      "description": "Emilie Surtees & her band are going to turn up the heat with a musical tribute to the Queens, Chaka Khan, Tina Turner and Donna Summer",
+      "image": "/images/sample/event9.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Ed Sheeran",
+      "slug": "ed-sheeran",
+      "venue": "Metlife Stadium",
+      "address": "1 Metlife Stadium Dr East Rutherford, NJ",
+      "performers": "Ed Sheeran",
+      "date": "July 30, 2023",
+      "time": "7:00 PM EST",
+      "description": "Ed Sheeran brings his '+-=x' Tour to Metlife Stadium",
+      "image": "/images/sample/event10.jpg"
+    }
+  ]
+}

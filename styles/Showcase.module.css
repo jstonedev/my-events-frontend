@@ -1,7 +1,7 @@
 .showcase {
   width: 100%;
   height: 300px;
-  background: url('../public/images-1/concert-3387324_1920.jpg') no-repeat center center;
+  background: url('../public/images/showcase.jpg') no-repeat center center;
   color: #fff;
   position: relative;
   display: flex;
